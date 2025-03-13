@@ -9,7 +9,12 @@ From **sample collection** and **rapid testing** to **detailed labeling guidance
 For more details, visit [our website](https://nutrilab.nl/en).  
 
 ### :computer: About this repository
-This repository houses the **LIMS project**, part of Nutrilab's modernization initiative to build a **scalable, high-performance, and future-proof platform** to support our laboratory operations. While we keep our **proprietary software private**, we always welcome discussions, insights, and potential collaborations!  
+This repository houses the **LIMS project**, part of Nutrilab's modernization initiative to build a **scalable, high-performance, and future-proof platform** to support our laboratory operations. While we keep our **proprietary software private**, we always welcome discussions, insights, and potential collaborations!
+
+Our tech stack includes:  
+- **Backend:** C#, .NET, service-oriented architecture (SOA), microservices  
+- **Frontend:** TypeScript, React, modern UI frameworks  
+- **Infrastructure:** API-first design, cloud-native principles  
 
 Why not hop into the [Get in Touch](#get-in-touch) section below and send us a message?
 
@@ -21,3 +26,5 @@ Most of our development is conducted in-house, but we embrace collaboration and 
   - [info@nutrilab.nl](info@nutrilab.nl) - for questions about our lab's operations
   - [r.ulfman@nutrilab.nl](r.ulfman@nutrilab.nl) - for questions about this repository
 - :globe_with_meridians: Website: [https://nutrilab.nl/en](https://nutrilab.nl/en)
+
+*:warning: **Please note:** We are **not** interested in unsolicited sales offers or external recruitment services.*
