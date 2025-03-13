@@ -36,4 +36,6 @@ Most of our development is conducted in-house, but we embrace collaboration and 
   - [r.ulfman@nutrilab.nl](r.ulfman@nutrilab.nl) - for questions about this repository
 - :globe_with_meridians: Website: [https://nutrilab.nl/en](https://nutrilab.nl/en)
 
+***
+
 *:warning: **Please note:** We are **not** interested in unsolicited sales or recruitment offers.*
