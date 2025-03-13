@@ -25,7 +25,7 @@ Our tech stack includes:
 - **Frontend:** TypeScript, React, modern UI frameworks  
 - **Infrastructure:** API-first design, cloud-native principles  
 
-Why not hop into the [Get in Touch](#get-in-touch) section below and send us a message?
+Why not hop into the [Get in Touch](#mag-get-in-touch) section below and send us a message?
 
 ## :mag: Get in touch
 Most of our development is conducted in-house, but we embrace collaboration and innovation. If you're interested in learning more about what we do, feel free to connect with us:  
